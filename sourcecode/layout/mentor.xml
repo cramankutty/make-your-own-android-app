@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#ffc0c7b4" >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mentor1"
+        android:textSize="42sp"
+        android:textColor="#ffd15d6c"/>
+
+
+    <Button
+        android:id="@+id/buttonsms"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickSms"
+        android:textColor="#ff1ba9c7"
+        android:textSize="30sp"
+        android:text="Send SMS >" />
+    <Button
+        android:id="@+id/buttonemail"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickEmail"
+        android:textColor="#ffd119cc"
+        android:textSize="30sp"
+        android:text="Send Email >" />
+    <Button
+        android:id="@+id/buttonweb"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickweb"
+        android:textColor="#ffc76699"
+        android:textSize="30sp"
+        android:text="Visit Wbsite >" />
+
+
+</LinearLayout>

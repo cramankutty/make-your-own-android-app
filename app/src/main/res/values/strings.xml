@@ -1,0 +1,58 @@
+<resources>
+    <string name="hello">Welcome to SWOT Analysis</string>
+    <string name="hello1">        Ram Consultancy services welcomes you to this session of knowing the self in you and
+tries to harness your internal and external reosources.\n
+      When you have some legal issues, you seek the advise of some legal consultants or lawyers and in the case of
+Finance either saving or for loan, you consult some experts. \n
+        You even depend on Astrologers in certain cases.\n
+        But when you have some problem of managing your business or profession you take your
+own decisions based on your knowledge and experience.\n
+
+
+
+
+
+You dont know to whom to approach. You may remember that even the great emperors
+including Devendra  had gurus to advise them.
+In this connection we introduce this App which is a handy tool to be with you to help you
+in real situation. This will take you to professional Mentros and ensures
+your success.
+We here use the best available tool for problem solving and that is the SWOT analysis with the help of
+Information technology.\n
+        Then What is SWOT Analysis?\n
+
+
+        A SWOT analysis is a structured planning method used to evaluate the
+        strengths, weaknesses, opportunities and threats involved in a project or in a business
+        venture. \n
+        A SWOT analysis can be carried out for a product, place, industry or person. \n
+        It involves specifying the objective of the business venture or project and identifying
+        the internal and external factors that are favorable and unfavorable to
+        achieve that objective.!</string>
+    <string name="hello2">When to use SWOT \n
+•  Explore new solutions to problems \n
+•  Identify barriers that will limit goals/objectives \n
+•  Decide on direction that will be most effective \n
+• Reveal possibilities and limitations for change \n
+• To revise plans to best navigate systems, communities, and organizations \n
+• As a brainstorming and recording device as a means of communication \n
+• To enhance “credibility of interpretation” to be utilized in presentation to leaders or key supporters \n</string>
+    <string name="hello3">How to  use SWOT \n
+•   Decide on the objective of your SWOT analysis \n
+•   Research your self,business, industry and market \n
+•   List your business strengths \n
+•   List your business weaknesses \n
+•   List potential opportunities  \n
+•   List potential threats \n
+•   Establish priorities from the SWOT \n
+•   Develop a strategy to address issues in the SWOT\n
+•   Consult a Mentor \n</string>
+    <string name="mentor1">For a Free Advice,You may Please contact @9447466395 \n
+        Visit  @ramconsultancy.in</string>
+    <string name="app_name">Ram Consultancy</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

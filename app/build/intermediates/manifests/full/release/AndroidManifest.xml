@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.myswot"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.myswot.CustomActivityTransitionActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.myswot.SecondActivity1" />
+        <activity android:name="com.myswot.SecondActivity" >
+        </activity>
+        <activity android:name="com.myswot.SecondActivity2" >
+        </activity>
+        <activity android:name="com.myswot.ThirdActivity" >
+        </activity>
+        <activity android:name="com.myswot.ESSSpinnerActivity" >
+        </activity>
+        <activity android:name="com.myswot.HomePage" >
+        </activity>
+        <activity android:name="com.myswot.MentorActivity" >
+        </activity>
+        <activity android:name="com.myswot.SendSMSActivity" >
+        </activity>
+        <activity android:name="com.myswot.SendEmailActivity" >
+        </activity>
+        <activity android:name="com.myswot.TwoPaneUi" >
+        </activity>
+    </application>
+
+</manifest>
